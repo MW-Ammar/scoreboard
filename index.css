@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.team-name {
+    color: #EEEEEE;
+    margin: 5px 0;
+    font-size: 32px;
+}
+
+.team-score {
+    background: #080001;
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 60px;
+    margin: 0 0 15px;
+    padding-top: 10px;
+}
+
+.add-btn {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #9AABD8;
+    background: none;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0 1px;
+}
+
+#new-game-btn {
+    color: #EEEEEE;
+    background: none;
+    border: 2px solid #EEEEEE;
+    border-radius: 5px;
+    padding: 5px;
+}
